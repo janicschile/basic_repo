@@ -11,14 +11,5 @@ git commit -m "update"
 git push -u origin master
 
 
-git add .
-git commit -m "actualización de css"
-git push -u origin master
-
-git status
-
-git revert -n HEAD
-git commit -m "reversa"
-git push -u origin master
 
 
