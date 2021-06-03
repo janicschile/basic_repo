@@ -1,0 +1,9 @@
+# ignora cualquier archivo llamado "secret.txt"
+secret.js
+
+# ignora un directorio llamado "packages"
+/packages/
+
+# ignora cualquier archivo con extensión .txt
+*.txt
+*.log
